@@ -1,0 +1,11 @@
+{
+  "id": "45642795",
+  "cui": "45642795",
+  "company": "OZALTIN INSAAT TICARET VE SANAYI ANONIM SIRKETI ANKARA SUCURSALA BUCURESTI",
+  "brand": "Ozaltin Insaat",
+  "status": "activ",
+  "location": ["Bucuresti"],
+  "website": [],
+  "career": ["https://mediere.anofm.ro/app/module/mediere/jobs"],
+  "scraperFile": "https://github.com/peviitor-scrapers/ozaltin-insaat-python-scraper/actions/workflows/job-seeker-ro-spider.yml"
+}
