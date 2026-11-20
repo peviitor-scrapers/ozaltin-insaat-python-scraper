@@ -1,4 +1,4 @@
-# OZALTIN INSAAT TICARET VE SANAYI ANONIM SIRKETI ANKARA SUCURSALA BUCURESTI 
+# OZALTIN INSAAT TICARET VE SANAYI ANONIM SIRKETI ANKARA SUCURSALA BUCURESTI
 
 ## Company Info
 
@@ -7,7 +7,7 @@
 | CIF | 45642795 |
 | Brand | Ozaltin Insaat |
 | Career | https://mediere.anofm.ro/app/module/mediere/jobs |
-| LastScraped | 2026-11-19 |
+| LastScraped | 2026-11-20 |
 
 ## Jobs (6)
 
@@ -50,4 +50,4 @@
 - **Status**: scraped
 
 ---
-_Generated at 2026-11-19T14:24:58Z_
+_Generated at 2026-11-20T14:51:50Z_
