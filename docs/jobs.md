@@ -7,7 +7,7 @@
 | CIF | 45642795 |
 | Brand | Ozaltin Insaat |
 | Career | https://mediere.anofm.ro/app/module/mediere/jobs |
-| LastScraped | 2026-11-23 |
+| LastScraped | 2026-11-24 |
 
 ## Jobs (6)
 
@@ -50,4 +50,4 @@
 - **Status**: scraped
 
 ---
-_Generated at 2026-11-23T17:18:50Z_
+_Generated at 2026-11-24T16:56:45Z_
