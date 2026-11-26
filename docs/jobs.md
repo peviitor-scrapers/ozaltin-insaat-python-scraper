@@ -7,9 +7,9 @@
 | CIF | 45642795 |
 | Brand | Ozaltin Insaat |
 | Career | https://mediere.anofm.ro/app/module/mediere/jobs |
-| LastScraped | 2026-11-25 |
+| LastScraped | 2026-11-26 |
 
-## Jobs (5)
+## Jobs (6)
 
 ### MANAGER
 
@@ -17,6 +17,12 @@
 - **Location**: BUCURESTI SECTORUL 1
 - **Work Mode**: on-site
 - **Tags**: constructii-instalatii, pclm, cu-norma-intreaga, cu-durata-nedeterminata, sediu, universitar-invatamant-superior, avansat-intre-5-si-7-ani
+- **Status**: scraped
+
+### Manager
+
+- **URL**: [https://www.jobrapid.ro/locuri-de-munca/manager-in-bucuresti-1733393.html](https://www.jobrapid.ro/locuri-de-munca/manager-in-bucuresti-1733393.html)
+- **Location**: București
 - **Status**: scraped
 
 ### MANAGER
@@ -44,4 +50,4 @@
 - **Status**: scraped
 
 ---
-_Generated at 2026-11-25T16:45:06Z_
+_Generated at 2026-11-26T16:20:36Z_
